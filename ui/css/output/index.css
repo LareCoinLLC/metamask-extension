@@ -41481,6 +41481,7 @@ readers do not read off random characters that represent icons */
   box-sizing: border-box;
   border-radius: 10px;
   margin-left: 22px;
+  background-color: rgb(6,21,81);
 }
 .select-action__select-button .first-time-flow__button {
   max-width: 221px;
@@ -41503,7 +41504,7 @@ readers do not read off random characters that represent icons */
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
-  color: #000;
+  color: white;
   margin-top: 12px;
   text-align: center;
 }
