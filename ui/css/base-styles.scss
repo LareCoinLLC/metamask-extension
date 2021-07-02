@@ -58,7 +58,8 @@ html {
   height: 100%;
   display: flex;
   flex-direction: column;
-  background: #f7f7f7;
+  background: rgb(6,21,81);
+  color:white;
 
   @media screen and (max-width: $break-small) {
     background-color: $white;
