@@ -53,7 +53,7 @@
     "message": "연락처 추가"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "이는 이 네트워크가 MetaMask 내에서 사용될 수 있도록 합니다."
+    "message": "이는 이 네트워크가 Larecoin 내에서 사용될 수 있도록 합니다."
   },
   "addEthereumChainConfirmationRisks": {
     "message": "MetaMask는 맞춤형 네트워크를 검증하지 않습니다."
@@ -154,7 +154,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Larecoin",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -262,7 +262,7 @@
     "message": "Wyre로 ETH 구매"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre를 사용하면 체크카드를 이용해 ETH를 MetaMask 계정에 바로 예치할 수 있습니다."
+    "message": "Wyre를 사용하면 체크카드를 이용해 ETH를 Larecoin 계정에 바로 예치할 수 있습니다."
   },
   "bytes": {
     "message": "바이트"
@@ -483,7 +483,7 @@
     "message": "맞춤형 토큰"
   },
   "dataBackupFoundInfo": {
-    "message": "계정 데이터 일부가 MetaMask 이전 설치 도중에 백업되었습니다. 여기에는 설정, 연락처, 토큰이 포함될 수 있습니다. 지금 이 데이터를 복구하시겠습니까?"
+    "message": "계정 데이터 일부가 Larecoin 이전 설치 도중에 백업되었습니다. 여기에는 설정, 연락처, 토큰이 포함될 수 있습니다. 지금 이 데이터를 복구하시겠습니까?"
   },
   "decimal": {
     "message": "토큰 십진수"
@@ -880,7 +880,7 @@
     "message": "계정 시드 구문으로 가져오기"
   },
   "importAccountMsg": {
-    "message": " 가져온 계정은 생성한 MetaMask 계정 시드 구문 원본에 연결되지 않습니다. 가져온 계정에 대해 자세히 알아보십시오. "
+    "message": " 가져온 계정은 생성한 Larecoin 계정 시드 구문 원본에 연결되지 않습니다. 가져온 계정에 대해 자세히 알아보십시오. "
   },
   "importAccountSeedPhrase": {
     "message": "시드 구문으로 계정 가져오기"
@@ -1066,10 +1066,10 @@
     "message": "이더리움 및 분산형 웹에 연결합니다."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Swaps가 점검 중입니다. 나중에 다시 확인하세요."
+    "message": "Larecoin Swaps가 점검 중입니다. 나중에 다시 확인하세요."
   },
   "metamaskVersion": {
-    "message": "MetaMask 버전"
+    "message": "Larecoin 버전"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "언제든 설정을 통해 옵트아웃할 수 있습니다."
@@ -1097,7 +1097,7 @@
     "message": "익명화된 클릭 및 페이지뷰 이벤트 보내기"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "MetaMask 개선에 참여"
+    "message": "Larecoin 개선에 참여"
   },
   "metametricsOptInDescription": {
     "message": "MetaMask는 사용자의 확장 사용 방식을 더 잘 이해하기 위해 사용 데이터를 수집하려 합니다. 이 데이터는 제품과 이더리움 생태계의 사용 편의성과 사용자 경험을 지속적으로 개선하는 데 사용됩니다."
@@ -1130,7 +1130,7 @@
     "description": "$1 represents `needHelpLinkText`, the text which goes in the help link"
   },
   "needHelpLinkText": {
-    "message": "MetaMask 지원"
+    "message": "Larecoin 지원"
   },
   "needImportFile": {
     "message": "가져올 파일을 선택해야 합니다.",
@@ -1211,7 +1211,7 @@
   },
   "nextNonceWarning": {
     "message": "임시값이 추천 임시값($1)보다 큼",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to Larecoin's internal logic"
   },
   "noAccountsFound": {
     "message": "검색 쿼리에 맞는 계정 없음"
@@ -1256,19 +1256,19 @@
     "message": "Gas 부족"
   },
   "notifications1Description": {
-    "message": "MetaMask 모바일 사용자는 이제 모바일 지갑에서 토큰을 스왑할 수 있습니다. QR 코드를 스캔하여 모바일 앱을 설치하고 스왑을 시작하세요.",
+    "message": "Larecoin 모바일 사용자는 이제 모바일 지갑에서 토큰을 스왑할 수 있습니다. QR 코드를 스캔하여 모바일 앱을 설치하고 스왑을 시작하세요.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "모바일 스왑은 여기서 진행됩니다!",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use MetaMask Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use Larecoin Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "더 읽어보기",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "MetaMask 보안에 대한 모범 사례의 최신 정보를 얻고 공식 MetaMask 지원에서 최신 보안 팁을 확인하십시오.",
+    "message": "Larecoin 보안에 대한 모범 사례의 최신 정보를 얻고 공식 Larecoin 지원에서 최신 보안 팁을 확인하십시오.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -1335,7 +1335,7 @@
     "message": "MetaMetrics에 참여"
   },
   "participateInMetaMetricsDescription": {
-    "message": "MetaMetrics에 참여하여 MetaMask 개선에 도움을 주세요."
+    "message": "MetaMetrics에 참여하여 Larecoin 개선에 도움을 주세요."
   },
   "password": {
     "message": "암호"
@@ -1741,7 +1741,7 @@
     "message": "상태 로그를 가져오는 도중 오류가 발생했습니다."
   },
   "stateLogFileName": {
-    "message": "MetaMask 상태 로그"
+    "message": "Larecoin 상태 로그"
   },
   "stateLogs": {
     "message": "상태 로그"
@@ -1866,7 +1866,7 @@
   },
   "swapFailedErrorDescriptionWithSupportLink": {
     "message": "거래가 실패할 경우 언제든 문의하세요. 오류가 해결되지 않는다면 고객 지원 $1에 문의하세요.",
-    "description": "This message is shown to a user if their swap fails. The $1 will be replaced by support.metamask.io"
+    "description": "This message is shown to a user if their swap fails. The $1 will be replaced by t.me/joinlarecoin"
   },
   "swapFailedErrorTitle": {
     "message": "스왑 실패"
@@ -1907,7 +1907,7 @@
     "message": "최대 슬리패지"
   },
   "swapMetaMaskFee": {
-    "message": "MetaMask 요금"
+    "message": "Larecoin 요금"
   },
   "swapMetaMaskFeeDescription": {
     "message": "당사는 매번 최상의 유동성 소스에서 최적 가격을 찾습니다. 이 견적에는 $1%의 수수료가 자동으로 반영됩니다.",
@@ -1955,7 +1955,7 @@
     "message": "주문 시점과 확인 시점 사이에 가격이 변동되는 현상을 \"슬리패지\"라고 합니다. 슬리패지가 \"최대 슬리패지\" 설정을 초과하면 스왑이 자동으로 취소됩니다."
   },
   "swapQuoteIncludesRate": {
-    "message": "견적에는 $1% MetaMask 요금이 포함됩니다.",
+    "message": "견적에는 $1% Larecoin 요금이 포함됩니다.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapQuoteNofN": {
@@ -2097,7 +2097,7 @@
     "message": "활동에서 보기"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "이는 MetaMask 내의 선택된 네트워크를 이전에 추가된 다음 네트워크로 전환합니다."
+    "message": "이는 Larecoin 내의 선택된 네트워크를 이전에 추가된 다음 네트워크로 전환합니다."
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "이 사이트가 네트워크를 전환하도록 허용합니까?"
@@ -2133,16 +2133,16 @@
     "message": "이 코드를 스캔할 때는 다른 사람이 화면을 보지 못하게 하세요."
   },
   "syncWithMobileComplete": {
-    "message": "데이터가 동기화되었습니다. MetaMask 모바일 앱을 마음껏 이용하세요!"
+    "message": "데이터가 동기화되었습니다. Larecoin 모바일 앱을 마음껏 이용하세요!"
   },
   "syncWithMobileDesc": {
-    "message": "계정과 정보를 모바일 장치와 동기화할 수 있습니다. MetaMask 모바일 앱을 열고 \"설정\"으로 이동하여 \"브라우저 확장에서 동기화\"를 탭합니다."
+    "message": "계정과 정보를 모바일 장치와 동기화할 수 있습니다. Larecoin 모바일 앱을 열고 \"설정\"으로 이동하여 \"브라우저 확장에서 동기화\"를 탭합니다."
   },
   "syncWithMobileDescNewUsers": {
-    "message": "MetaMask 모바일 앱을 처음 열었다면 전화에 표시되는 단계를 따르세요."
+    "message": "Larecoin 모바일 앱을 처음 열었다면 전화에 표시되는 단계를 따르세요."
   },
   "syncWithMobileScanThisCode": {
-    "message": "MetaMask 모바일 앱으로 이 코드를 스캔하세요."
+    "message": "Larecoin 모바일 앱으로 이 코드를 스캔하세요."
   },
   "syncWithMobileTitle": {
     "message": "모바일과 동기화"
@@ -2266,7 +2266,7 @@
     "message": "다시 시도"
   },
   "typePassword": {
-    "message": "MetaMask 암호 입력"
+    "message": "Larecoin 암호 입력"
   },
   "unapproved": {
     "message": "승인되지 않음"
@@ -2369,14 +2369,14 @@
     "message": "지갑 계정 시드 구문"
   },
   "welcome": {
-    "message": "MetaMask 방문을 환영합니다"
+    "message": "Larecoin 방문을 환영합니다"
   },
   "welcomeBack": {
     "message": "재방문을 환영합니다!"
   },
   "whatsNew": {
     "message": "최근 소식",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to MetaMask."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to Larecoin."
   },
   "whatsThis": {
     "message": "이것은 무엇인가요?"

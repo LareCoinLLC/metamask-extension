@@ -20,12 +20,12 @@ function getActionFunctionById(id, history) {
     2: () => {
       global.platform.openTab({
         url:
-          'https://survey.alchemer.com/s3/6173069/MetaMask-Extension-NPS-January-2021',
+          'https://survey.alchemer.com/s3/6173069/Larecoin-Extension-NPS-January-2021',
       });
     },
     3: () => {
       global.platform.openTab({
-        url: 'https://community.metamask.io/t/about-the-security-category/72',
+        url: 'https://community.larecoin.com/t/about-the-security-category/72',
       });
     },
     4: () => {
@@ -35,7 +35,7 @@ function getActionFunctionById(id, history) {
     5: () => {
       updateViewedNotifications({ 5: true });
       global.platform.openTab({
-        url: 'https://metamask.zendesk.com/hc/en-us/articles/360060826432',
+        url: 'https://t.me/joinlarecoin/hc/en-us/articles/360060826432',
       });
     },
   };

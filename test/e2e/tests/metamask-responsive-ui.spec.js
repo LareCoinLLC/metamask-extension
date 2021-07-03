@@ -159,7 +159,7 @@ describe('Metamask Responsive UI', function () {
         await driver.fill('#password', 'correct horse battery staple');
         await driver.press('#password', driver.Key.ENTER);
 
-        // Send ETH from inside MetaMask
+        // Send ETH from inside Larecoin
         // starts to send a transaction
         await driver.clickElement('[data-testid="eth-overview-send"]');
 

@@ -49,7 +49,7 @@ describe('FeeCard', () => {
     expect(getByText(props.secondaryFee.fee)).toBeInTheDocument();
     expect(getByText(props.secondaryFee.maxFee)).toBeInTheDocument();
     expect(
-      getByText('Quote includes a 0.875% MetaMask fee'),
+      getByText('Quote includes a 0.875% Larecoin fee'),
     ).toBeInTheDocument();
     expect(
       document.querySelector('.fee-card__savings-and-quotes-header'),

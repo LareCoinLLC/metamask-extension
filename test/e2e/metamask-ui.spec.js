@@ -7,7 +7,7 @@ const Ganache = require('./ganache');
 
 const ganacheServer = new Ganache();
 
-describe('MetaMask', function () {
+describe('Larecoin', function () {
   let driver;
   let tokenAddress;
 
@@ -265,7 +265,7 @@ describe('MetaMask', function () {
     });
   });
 
-  describe('Send ETH from inside MetaMask using default gas', function () {
+  describe('Send ETH from inside Larecoin using default gas', function () {
     it('starts a send transaction', async function () {
       await driver.clickElement('[data-testid="eth-overview-send"]');
       await driver.delay(regularDelayMs);
@@ -339,7 +339,7 @@ describe('MetaMask', function () {
     });
   });
 
-  describe('Send ETH from inside MetaMask using fast gas option', function () {
+  describe('Send ETH from inside Larecoin using fast gas option', function () {
     it('starts a send transaction', async function () {
       await driver.clickElement('[data-testid="eth-overview-send"]');
       await driver.delay(regularDelayMs);
@@ -380,7 +380,7 @@ describe('MetaMask', function () {
     });
   });
 
-  describe('Send ETH from inside MetaMask using advanced gas modal', function () {
+  describe('Send ETH from inside Larecoin using advanced gas modal', function () {
     it('starts a send transaction', async function () {
       await driver.clickElement('[data-testid="eth-overview-send"]');
       await driver.delay(regularDelayMs);
@@ -520,7 +520,7 @@ describe('MetaMask', function () {
 
       windowHandles = await driver.getAllWindowHandles();
       await driver.switchToWindowWithTitle(
-        'MetaMask Notification',
+        'Larecoin Notification',
         windowHandles,
       );
       await driver.delay(regularDelayMs);
@@ -1052,7 +1052,7 @@ describe('MetaMask', function () {
     });
   });
 
-  describe('Send token from inside MetaMask', function () {
+  describe('Send token from inside Larecoin', function () {
     it('starts to send a transaction', async function () {
       await driver.clickElement('[data-testid="eth-overview-send"]');
       await driver.delay(regularDelayMs);

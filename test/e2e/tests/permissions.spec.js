@@ -35,7 +35,7 @@ describe('Permissions', function () {
         const windowHandles = await driver.getAllWindowHandles();
         const extension = windowHandles[0];
         await driver.switchToWindowWithTitle(
-          'MetaMask Notification',
+          'Larecoin Notification',
           windowHandles,
         );
         await driver.clickElement({

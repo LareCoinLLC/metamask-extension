@@ -33,7 +33,7 @@ describe('Signature Request', function () {
         await driver.waitUntilXWindowHandles(3);
         const windowHandles = await driver.getAllWindowHandles();
         await driver.switchToWindowWithTitle(
-          'MetaMask Notification',
+          'Larecoin Notification',
           windowHandles,
         );
 

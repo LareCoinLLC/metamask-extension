@@ -44,7 +44,7 @@
     "message": "log aktivitas"
   },
   "addAcquiredTokens": {
-    "message": "Tambahkan token yang Anda peroleh menggunakan MetaMask"
+    "message": "Tambahkan token yang Anda peroleh menggunakan Larecoin"
   },
   "addAlias": {
     "message": "Tambahkan alias"
@@ -53,10 +53,10 @@
     "message": "Tambah kontak"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "Ini akan memungkinkan jaringan ini digunakan dengan MetaMask."
+    "message": "Ini akan memungkinkan jaringan ini digunakan dengan Larecoin."
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "MetaMask tidak memverifikasi jaringan kustom."
+    "message": "Larecoin tidak memverifikasi jaringan kustom."
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "Pelajari tentang $1.",
@@ -154,7 +154,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Larecoin",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -204,7 +204,7 @@
     "message": "Timer Mengunci Otomatis (menit)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Atur waktu siaga dalam menit sebelum MetaMask menjadi terkunci."
+    "message": "Atur waktu siaga dalam menit sebelum Larecoin menjadi terkunci."
   },
   "average": {
     "message": "Rata-rata"
@@ -216,7 +216,7 @@
     "message": "Kembali ke Semua"
   },
   "backupApprovalInfo": {
-    "message": "Kode rahasia ini diperlukan untuk memulihkan dompet seandainya Anda kehilangan perangkat, lupa kata sandi, harus menginstal kembali MetaMask, atau ingin mengakses dompet Anda di perangkat lain."
+    "message": "Kode rahasia ini diperlukan untuk memulihkan dompet seandainya Anda kehilangan perangkat, lupa kata sandi, harus menginstal kembali Larecoin, atau ingin mengakses dompet Anda di perangkat lain."
   },
   "backupApprovalNotice": {
     "message": "Cadangkan kode Pemulihan Rahasia Anda untuk menjaga keamanan dompet dan dana Anda."
@@ -253,7 +253,7 @@
     "message": "Buat daftar kontak Anda"
   },
   "builtInCalifornia": {
-    "message": "MetaMask didesain dan didirikan di California."
+    "message": "Larecoin didesain dan didirikan di California."
   },
   "buy": {
     "message": "Beli"
@@ -262,7 +262,7 @@
     "message": "Beli ETH dengan Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre memungkinkan Anda menggunakan kartu debit untuk menyetorkan ETH langsung di akun MetaMask Anda."
+    "message": "Wyre memungkinkan Anda menggunakan kartu debit untuk menyetorkan ETH langsung di akun Larecoin Anda."
   },
   "bytes": {
     "message": "Byte"
@@ -286,7 +286,7 @@
     "message": "ID rantai digunakan untuk menandatangani transaksi untuk jaringan ini."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Anda perlu menggunakan MetaMask di Google Chrome untuk terhubung ke Dompet Perangkat Keras Anda."
+    "message": "Anda perlu menggunakan Larecoin di Google Chrome untuk terhubung ke Dompet Perangkat Keras Anda."
   },
   "clickToRevealSeed": {
     "message": "Klik di sini untuk membuka kata rahasia"
@@ -351,7 +351,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "Hubungkan Dengan MetaMask"
+    "message": "Hubungkan Dengan Larecoin"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Anda memiliki $1 akun yang terhubung ke situs ini.",
@@ -361,7 +361,7 @@
     "message": "Anda memiliki 1 akun yang terhubung ke situs ini."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask tidak terhubung ke situs ini. Untuk terhubung ke situs web3, temukan tombol hubungkan di situs mereka."
+    "message": "Larecoin tidak terhubung ke situs ini. Untuk terhubung ke situs web3, temukan tombol hubungkan di situs mereka."
   },
   "connectedSites": {
     "message": "Situs yang terhubung"
@@ -483,7 +483,7 @@
     "message": "Token Kustom"
   },
   "dataBackupFoundInfo": {
-    "message": "Beberapa data akun Anda telah dicadangkan selama penginstalan MetaMask yang lalu. Ini bisa mencakup pengaturan, kontak, dan token Anda. Apakah Anda ingin memulihkan data ini sekarang?"
+    "message": "Beberapa data akun Anda telah dicadangkan selama penginstalan Larecoin yang lalu. Ini bisa mencakup pengaturan, kontak, dan token Anda. Apakah Anda ingin memulihkan data ini sekarang?"
   },
   "decimal": {
     "message": "Desimal Token"
@@ -621,13 +621,13 @@
     "message": "Jangan bagikan frasa kepada siapa pun."
   },
   "endOfFlowMessage5": {
-    "message": "Berhati-hatilah dengan phishing! MetaMask tidak pernah secara spontan meminta Frasa Pemulihan Rahasia Anda."
+    "message": "Berhati-hatilah dengan phishing! Larecoin tidak pernah secara spontan meminta Frasa Pemulihan Rahasia Anda."
   },
   "endOfFlowMessage6": {
     "message": "Jika Anda perlu mencadangkan Frasa Pemulihan Rahasia lagi, Anda dapat menemukannya di Pengaturan -> Keamanan."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask tidak dapat memulihkan Frasa Pemulihan Rahasia Anda."
+    "message": "Larecoin tidak dapat memulihkan Frasa Pemulihan Rahasia Anda."
   },
   "endOfFlowMessage9": {
     "message": "Pelajari selengkapnya."
@@ -679,7 +679,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "MetaMask menemukan kesalahan",
+    "message": "Larecoin menemukan kesalahan",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -844,7 +844,7 @@
     "message": "Hubungkan dompet perangkat keras"
   },
   "hardwareWalletsMsg": {
-    "message": "Pilih dompet perangkat keras yang ingin Anda gunakan dengan MetaMask."
+    "message": "Pilih dompet perangkat keras yang ingin Anda gunakan dengan Larecoin."
   },
   "here": {
     "message": "di sini",
@@ -880,7 +880,7 @@
     "message": "impor menggunakan Frasa Pemulihan Rahasia"
   },
   "importAccountMsg": {
-    "message": " Akun yang diimpor tidak akan dikaitkan dengan Frasa Pemulihan Rahasia akun MetaMask yang asli dibuat. Pelajari selengkapnya tentang akun yang diimpor "
+    "message": " Akun yang diimpor tidak akan dikaitkan dengan Frasa Pemulihan Rahasia akun Larecoin yang asli dibuat. Pelajari selengkapnya tentang akun yang diimpor "
   },
   "importAccountSeedPhrase": {
     "message": "Impor akun dengan Frasa Pemulihan Rahasia"
@@ -896,7 +896,7 @@
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infuraBlockedNotification": {
-    "message": "MetaMask tidak dapat terhubung ke host blockchain. Tinjau alasan yang mungkin $1.",
+    "message": "Larecoin tidak dapat terhubung ke host blockchain. Tinjau alasan yang mungkin $1.",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1050,7 +1050,7 @@
     "message": "Pesan"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Kini, Anda memiliki kontrol lebih banyak atas koneksi akun Anda di MetaMask."
+    "message": "Kini, Anda memiliki kontrol lebih banyak atas koneksi akun Anda di Larecoin."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Klik untuk mengelola akun Anda yang terhubung."
@@ -1062,10 +1062,10 @@
     "message": "Menghubungkan Anda ke Ethereum dan Web Terdesentralisasi."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Swap sedang dalam pemeliharaan. Silakan periksa kembali nanti."
+    "message": "Larecoin Swap sedang dalam pemeliharaan. Silakan periksa kembali nanti."
   },
   "metamaskVersion": {
-    "message": "Versi MetaMask"
+    "message": "Versi Larecoin"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Selalu izinkan Anda untuk menyisih melalui Pengaturan"
@@ -1075,7 +1075,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask akan.."
+    "message": "Larecoin akan.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 mengumpulkan alamat IP lengkap Anda",
@@ -1093,10 +1093,10 @@
     "message": "Kirim kejadian pageview & klik anonim"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "Bantu Kami Menyempurnakan MetaMask"
+    "message": "Bantu Kami Menyempurnakan Larecoin"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMask ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk secara kontinu memperbaiki kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Ethereum."
+    "message": "Larecoin ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk secara kontinu memperbaiki kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Ethereum."
   },
   "mismatchedChain": {
     "message": "Detail jaringan untuk ID rantai ini tidak cocok dengan catatan kami. Kami menyarankan agar Anda $1 sebelum melanjutkan.",
@@ -1119,14 +1119,14 @@
     "message": "Nama"
   },
   "needEtherInWallet": {
-    "message": "Untuk berinteraksi dengan aplikasi yang terdesentralisasi menggunakan MetaMask, Anda memerlukan Ether di dompet Anda."
+    "message": "Untuk berinteraksi dengan aplikasi yang terdesentralisasi menggunakan Larecoin, Anda memerlukan Ether di dompet Anda."
   },
   "needHelp": {
     "message": "Butuh bantuan? Hubungi $1",
     "description": "$1 represents `needHelpLinkText`, the text which goes in the help link"
   },
   "needHelpLinkText": {
-    "message": "Dukungan MetaMask"
+    "message": "Dukungan Larecoin"
   },
   "needImportFile": {
     "message": "Anda harus memilih file untuk diimpor.",
@@ -1194,7 +1194,7 @@
     "message": "Kata sandi baru (min. 8 karakter)"
   },
   "newToMetaMask": {
-    "message": "Baru menggunakan MetaMask?"
+    "message": "Baru menggunakan Larecoin?"
   },
   "newTotal": {
     "message": "Total Baru"
@@ -1207,7 +1207,7 @@
   },
   "nextNonceWarning": {
     "message": "Nonce lebih tinggi dari nonce yang disarankan $1",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to Larecoin's internal logic"
   },
   "noAccountsFound": {
     "message": "Tidak ditemukan akun untuk kueri pencarian yang diberikan"
@@ -1252,19 +1252,19 @@
     "message": "Biaya Jaringan Tidak Cukup"
   },
   "notifications1Description": {
-    "message": "Pengguna MetaMask Mobile sekarang bisa menukar token di dalam dompet seluler mereka. Pindai kode QR untuk mendapatkan aplikasi seluler dan mulai menukar.",
+    "message": "Pengguna Larecoin Mobile sekarang bisa menukar token di dalam dompet seluler mereka. Pindai kode QR untuk mendapatkan aplikasi seluler dan mulai menukar.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "Penukaran di seluler ada di sini!",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use MetaMask Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use Larecoin Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "Baca selengkapnya",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "Dapatkan informasi terbaru tentang praktik terbaik keamanan MetaMask dan dapatkan kiat-kiat keamanan terkini dari dukungan MetaMask resmi.",
+    "message": "Dapatkan informasi terbaru tentang praktik terbaik keamanan Larecoin dan dapatkan kiat-kiat keamanan terkini dari dukungan Larecoin resmi.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -1276,7 +1276,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Swap on Binance Smart Chain!' notification. Upon clicking, users will be taken to a page where then can swap tokens on Binance Smart Chain."
   },
   "notifications4Description": {
-    "message": "Dapatkan harga terbaik di penukaran token langsung di dompet Anda. MetaMask kini menghubungkan Anda ke berbagai agregator penukaran terdesentralisasi dan pembuat pasar profesional di Binance Smart Chain.",
+    "message": "Dapatkan harga terbaik di penukaran token langsung di dompet Anda. Larecoin kini menghubungkan Anda ke berbagai agregator penukaran terdesentralisasi dan pembuat pasar profesional di Binance Smart Chain.",
     "description": "Description of a notification in the 'See What's New' popup."
   },
   "notifications4Title": {
@@ -1331,7 +1331,7 @@
     "message": "Ikut serta dalam MetaMetric"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Ikut serta dalam MetaMetric untuk membantu kami membuat MetaMask lebih baik"
+    "message": "Ikut serta dalam MetaMetric untuk membantu kami membuat Larecoin lebih baik"
   },
   "password": {
     "message": "Kata sandi"
@@ -1566,10 +1566,10 @@
     "message": "Pilih Akun"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "Akun ini sudah terhubung ke MetaMask."
+    "message": "Akun ini sudah terhubung ke Larecoin."
   },
   "selectAnAccountHelp": {
-    "message": "Pilih akun untuk dilihat di MetaMask."
+    "message": "Pilih akun untuk dilihat di Larecoin."
   },
   "selectAnAccountHelpDirections": {
     "message": "Tidak melihat akun Anda? $1",
@@ -1701,7 +1701,7 @@
     "message": "Kesalahan dalam log status pengambilan."
   },
   "stateLogFileName": {
-    "message": "Log Status MetaMask"
+    "message": "Log Status Larecoin"
   },
   "stateLogs": {
     "message": "Log Status"
@@ -1808,7 +1808,7 @@
     "message": "Edit batas"
   },
   "swapEnableDescription": {
-    "message": "Ini wajib dan memberikan MetaMask izin untuk menukar $1 Anda.",
+    "message": "Ini wajib dan memberikan Larecoin izin untuk menukar $1 Anda.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEstimatedNetworkFee": {
@@ -1826,7 +1826,7 @@
   },
   "swapFailedErrorDescriptionWithSupportLink": {
     "message": "Kegagalan transaksi terjadi dan kami di sini untuk membantu. Jika masalah tetap ada, Anda dapat menghubungi dukungan pelanggan kami di $1 untuk mendapatkan bantuan lebih jauh.",
-    "description": "This message is shown to a user if their swap fails. The $1 will be replaced by support.metamask.io"
+    "description": "This message is shown to a user if their swap fails. The $1 will be replaced by t.me/joinlarecoin"
   },
   "swapFailedErrorTitle": {
     "message": "Penukaran gagal"
@@ -1867,7 +1867,7 @@
     "message": "Maks. slippage"
   },
   "swapMetaMaskFee": {
-    "message": "Biaya MetaMask"
+    "message": "Biaya Larecoin"
   },
   "swapMetaMaskFeeDescription": {
     "message": "Kami menemukan harga terbaik dari sumber likuiditas teratas, setiap waktu. Biaya sebesar $1% otomatis diperhitungkan ke kuota ini.",
@@ -1878,7 +1878,7 @@
     "description": "$1 is the number of quotes that the user can select from when opening the list of quotes on the 'view quote' screen"
   },
   "swapNetworkFeeSummary": {
-    "message": "Biaya jaringan mencakup biaya pemrosesan penukaran Anda dan menyimpannya di jaringan $1. MetaMask tidak mendapatkan keuntungan dari biaya ini."
+    "message": "Biaya jaringan mencakup biaya pemrosesan penukaran Anda dan menyimpannya di jaringan $1. Larecoin tidak mendapatkan keuntungan dari biaya ini."
   },
   "swapNewQuoteIn": {
     "message": "Kuota baru di $1",
@@ -1915,7 +1915,7 @@
     "message": "Jika harga berubah antara waktu pesanan Anda ditempatkan dan dikonfirmasi, ini disebut \"slippage\". Penukaran Anda akan otomatis dibatalkan jika slippage melebihi pengaturan \"toleransi slippage\"."
   },
   "swapQuoteIncludesRate": {
-    "message": "Kuota mencakup biaya MetaMask $1%",
+    "message": "Kuota mencakup biaya Larecoin $1%",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapQuoteNofN": {
@@ -2057,7 +2057,7 @@
     "message": "Lihat dalam aktivitas"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "Ini akan mengalihkan jaringan yang dipilih dalam MetaMask ke jaringan yang ditambahkan sebelumnya:"
+    "message": "Ini akan mengalihkan jaringan yang dipilih dalam Larecoin ke jaringan yang ditambahkan sebelumnya:"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "Izinkan situs ini untuk beralih jaringan?"
@@ -2093,16 +2093,16 @@
     "message": "Pastikan tidak ada orang lain yang melihat layar Anda saat memindai kode ini"
   },
   "syncWithMobileComplete": {
-    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi seluler MetaMask!"
+    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi seluler Larecoin!"
   },
   "syncWithMobileDesc": {
-    "message": "Anda dapat menyinkronkan akun dan informasi dengan perangkat seluler Anda. Buka aplikasi seluler MetaMask, buka \"Pengaturan\" dan ketuk \"Sinkronkan dari Ekstensi Browser\""
+    "message": "Anda dapat menyinkronkan akun dan informasi dengan perangkat seluler Anda. Buka aplikasi seluler Larecoin, buka \"Pengaturan\" dan ketuk \"Sinkronkan dari Ekstensi Browser\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jika Anda baru membuka aplikasi seluler MetaMask untuk pertama kali, cukup ikuti langkah-langkah yang ada di ponsel Anda."
+    "message": "Jika Anda baru membuka aplikasi seluler Larecoin untuk pertama kali, cukup ikuti langkah-langkah yang ada di ponsel Anda."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Pindai kode ini dengan aplikasi seluler MetaMask Anda"
+    "message": "Pindai kode ini dengan aplikasi seluler Larecoin Anda"
   },
   "syncWithMobileTitle": {
     "message": "Sinkronisasi dengan seluler"
@@ -2226,7 +2226,7 @@
     "message": "Coba lagi"
   },
   "typePassword": {
-    "message": "Ketikkan kata sandi MetaMask Anda"
+    "message": "Ketikkan kata sandi Larecoin Anda"
   },
   "unapproved": {
     "message": "Tidak disetujui"
@@ -2329,14 +2329,14 @@
     "message": "Frasa Pemulihan Rahasia Dompet"
   },
   "welcome": {
-    "message": "Selamat datang di MetaMask"
+    "message": "Selamat datang di Larecoin"
   },
   "welcomeBack": {
     "message": "Selamat Datang Kembali!"
   },
   "whatsNew": {
     "message": "Apa yang baru",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to MetaMask."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to Larecoin."
   },
   "whatsThis": {
     "message": "Apa ini?"

@@ -42,7 +42,7 @@ exports[`FeeCard renders the component with initial props 2`] = `
     <div
       class="fee-card__row-header-text"
     >
-      Quote includes a 0.875% MetaMask fee
+      Quote includes a 0.875% Larecoin fee
     </div>
     <div
       class="info-tooltip"

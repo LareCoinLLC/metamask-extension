@@ -180,7 +180,7 @@ export default class UnlockPage extends Component {
           <div className="unlock-page__support">
             {t('needHelp', [
               <a
-                href="https://support.metamask.io"
+                href="https://t.me/joinlarecoin"
                 target="_blank"
                 rel="noopener noreferrer"
                 key="need-help-link"

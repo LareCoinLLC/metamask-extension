@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*
-  MetaMask design system imports
+  Larecoin design system imports
   The variables declared here should take precedence.
   They are included first because they will be used to replace bad variable names in itcss
   prior to it being fully removed from the system.
@@ -41481,7 +41481,6 @@ readers do not read off random characters that represent icons */
   box-sizing: border-box;
   border-radius: 10px;
   margin-left: 22px;
-  background-color: rgb(6,21,81);
 }
 .select-action__select-button .first-time-flow__button {
   max-width: 221px;
@@ -41504,7 +41503,7 @@ readers do not read off random characters that represent icons */
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
-  color: white;
+  color: #000;
   margin-top: 12px;
   text-align: center;
 }

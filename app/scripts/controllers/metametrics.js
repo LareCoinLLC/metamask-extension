@@ -154,7 +154,7 @@ export default class MetaMetricsController {
   _buildContext(referrer, page = METAMETRICS_BACKGROUND_PAGE_OBJECT) {
     return {
       app: {
-        name: 'MetaMask Extension',
+        name: 'Larecoin Extension',
         version: this.version,
       },
       userAgent: window.navigator.userAgent,

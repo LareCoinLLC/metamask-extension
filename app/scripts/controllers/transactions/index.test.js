@@ -292,7 +292,7 @@ describe('Transaction Controller', function () {
       await assert.rejects(
         () => txController.newUnapprovedTransaction(txParams),
         {
-          message: 'MetaMask Tx Signature: User denied transaction signature.',
+          message: 'Larecoin Tx Signature: User denied transaction signature.',
         },
       );
     });
@@ -370,7 +370,7 @@ describe('Transaction Controller', function () {
             from: selectedAddress,
             to: '0x0d1d4e623D10F9FBA5Db95830F7d3839406C6AF2',
           }),
-        { message: 'MetaMask is having trouble connecting to the network' },
+        { message: 'Larecoin is having trouble connecting to the network' },
       );
     });
   });

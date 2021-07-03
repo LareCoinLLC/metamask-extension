@@ -385,7 +385,7 @@ export async function fetchSwapsQuoteRefreshTime(chainId) {
   }
 
   throw new Error(
-    `MetaMask - refreshTime provided invalid response: ${response}`,
+    `Larecoin - refreshTime provided invalid response: ${response}`,
   );
 }
 

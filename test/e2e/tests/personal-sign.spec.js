@@ -31,7 +31,7 @@ describe('Personal sign', function () {
 
         const windowHandles = await driver.getAllWindowHandles();
         await driver.switchToWindowWithTitle(
-          'MetaMask Notification',
+          'Larecoin Notification',
           windowHandles,
         );
 

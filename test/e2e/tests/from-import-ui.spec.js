@@ -117,7 +117,7 @@ describe('Metamask Import UI', function () {
         await driver.clickElement('.account-menu__icon');
         await driver.clickElement('.account-menu__name');
 
-        // Send ETH from inside MetaMask
+        // Send ETH from inside Larecoin
         // starts a send transaction
         await driver.clickElement('[data-testid="eth-overview-send"]');
         await driver.fill(

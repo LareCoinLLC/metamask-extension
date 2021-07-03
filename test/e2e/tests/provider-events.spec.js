@@ -1,7 +1,7 @@
 const { strict: assert } = require('assert');
 const { withFixtures, regularDelayMs } = require('../helpers');
 
-describe('MetaMask', function () {
+describe('Larecoin', function () {
   it('provider should inform dapp when switching networks', async function () {
     const ganacheOptions = {
       accounts: [

@@ -44,7 +44,7 @@
     "message": "registro de actividad"
   },
   "addAcquiredTokens": {
-    "message": "Agregar los tokens que adquirió con MetaMask"
+    "message": "Agregar los tokens que adquirió con Larecoin"
   },
   "addAlias": {
     "message": "Agregar alias"
@@ -53,10 +53,10 @@
     "message": "Agregar contacto"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "Esto permitirá que la red se utilice en MetaMask."
+    "message": "Esto permitirá que la red se utilice en Larecoin."
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "MetaMask no verifica redes personalizadas."
+    "message": "Larecoin no verifica redes personalizadas."
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "Obtenga más información sobre $1.",
@@ -154,7 +154,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Larecoin",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -204,7 +204,7 @@
     "message": "Temporizador con bloqueo automático (minutos)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Establezca el tiempo de inactividad en minutos antes de que se bloquee MetaMask."
+    "message": "Establezca el tiempo de inactividad en minutos antes de que se bloquee Larecoin."
   },
   "average": {
     "message": "Promedio"
@@ -216,7 +216,7 @@
     "message": "Volver a Todos"
   },
   "backupApprovalInfo": {
-    "message": "Este código secreto es necesario para que recupere la cartera en caso de que pierda el dispositivo, olvide su contraseña, tenga que volver a instalar MetaMask o quiera acceder a la cartera en otro dispositivo."
+    "message": "Este código secreto es necesario para que recupere la cartera en caso de que pierda el dispositivo, olvide su contraseña, tenga que volver a instalar Larecoin o quiera acceder a la cartera en otro dispositivo."
   },
   "backupApprovalNotice": {
     "message": "Cree una copia de seguridad del código de recuperación secreto para mantener protegidos sus fondos y su cartera."
@@ -253,7 +253,7 @@
     "message": "Cree su lista de contactos"
   },
   "builtInCalifornia": {
-    "message": "MetaMask se diseñó y compiló en California."
+    "message": "Larecoin se diseñó y compiló en California."
   },
   "buy": {
     "message": "Comprar"
@@ -262,7 +262,7 @@
     "message": "Comprar ETH con Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre le permite usar una tarjeta de débito para depositar ETH directamente en su cuenta de MetaMask."
+    "message": "Wyre le permite usar una tarjeta de débito para depositar ETH directamente en su cuenta de Larecoin."
   },
   "bytes": {
     "message": "Bytes"
@@ -286,7 +286,7 @@
     "message": "El identificador de cadena que se utiliza para firmar transacciones en esta red."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Debe usar MetaMask en Google Chrome para poder conectarse a su cartera de hardware."
+    "message": "Debe usar Larecoin en Google Chrome para poder conectarse a su cartera de hardware."
   },
   "clickToRevealSeed": {
     "message": "Haga clic aquí para revelar las palabras secretas"
@@ -351,7 +351,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "Conectarse con MetaMask"
+    "message": "Conectarse con Larecoin"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Tiene $1 cuentas conectadas a este sitio.",
@@ -361,7 +361,7 @@
     "message": "Tiene 1 cuenta conectada a este sitio."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask no está conectado a este sitio. Para conectarse a un sitio de Web3, busque el botón de conexión en su sitio."
+    "message": "Larecoin no está conectado a este sitio. Para conectarse a un sitio de Web3, busque el botón de conexión en su sitio."
   },
   "connectedSites": {
     "message": "Sitios conectados"
@@ -483,7 +483,7 @@
     "message": "Token personalizado"
   },
   "dataBackupFoundInfo": {
-    "message": "Se crearon copias de seguridad de algunos de los datos de la cuenta durante una instalación anterior de MetaMask. Esto podría incluir configuraciones, contactos y tokens. ¿Le gustaría restaurar estos datos ahora?"
+    "message": "Se crearon copias de seguridad de algunos de los datos de la cuenta durante una instalación anterior de Larecoin. Esto podría incluir configuraciones, contactos y tokens. ¿Le gustaría restaurar estos datos ahora?"
   },
   "decimal": {
     "message": "Decimales del token"
@@ -621,13 +621,13 @@
     "message": "No comparta la frase con nadie."
   },
   "endOfFlowMessage5": {
-    "message": "Tenga cuidado con el phishing. MetaMask nunca le pedirá la frase secreta de recuperación sin anticipárselo."
+    "message": "Tenga cuidado con el phishing. Larecoin nunca le pedirá la frase secreta de recuperación sin anticipárselo."
   },
   "endOfFlowMessage6": {
     "message": "Si necesita volver a crear una copia de seguridad de la frase secreta de recuperación, puede encontrarla en Configuración -> Seguridad."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask no puede recuperar la frase secreta de recuperación."
+    "message": "Larecoin no puede recuperar la frase secreta de recuperación."
   },
   "endOfFlowMessage9": {
     "message": "Obtenga más información."
@@ -679,7 +679,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "MetaMask encontró un error",
+    "message": "Larecoin encontró un error",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -844,7 +844,7 @@
     "message": "Conectar una cartera de hardware"
   },
   "hardwareWalletsMsg": {
-    "message": "Seleccione una cartera de hardware que desee usar con MetaMask."
+    "message": "Seleccione una cartera de hardware que desee usar con Larecoin."
   },
   "here": {
     "message": "aquí",
@@ -880,7 +880,7 @@
     "message": "importar con la frase secreta de recuperación"
   },
   "importAccountMsg": {
-    "message": " Las cuentas importadas no se asociarán con la frase secreta de recuperación de la cuenta original de MetaMask. Más información sobre las cuentas importadas "
+    "message": " Las cuentas importadas no se asociarán con la frase secreta de recuperación de la cuenta original de Larecoin. Más información sobre las cuentas importadas "
   },
   "importAccountSeedPhrase": {
     "message": "Importar una cuenta con la frase secreta de recuperación"
@@ -896,7 +896,7 @@
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infuraBlockedNotification": {
-    "message": "MetaMask no se pudo conectar al host de la cadena de bloques. Revise las razones posibles $1.",
+    "message": "Larecoin no se pudo conectar al host de la cadena de bloques. Revise las razones posibles $1.",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1050,7 +1050,7 @@
     "message": "Mensaje"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Ahora tiene más control sobre las conexiones de su cuenta en MetaMask."
+    "message": "Ahora tiene más control sobre las conexiones de su cuenta en Larecoin."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Haga clic en él para administrar las cuentas conectadas."
@@ -1062,10 +1062,10 @@
     "message": "Conectándolo a Ethereum y a la Web descentralizada."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Swaps está en mantenimiento. Vuelva a comprobarlo más tarde."
+    "message": "Larecoin Swaps está en mantenimiento. Vuelva a comprobarlo más tarde."
   },
   "metamaskVersion": {
-    "message": "Versión de MetaMask"
+    "message": "Versión de Larecoin"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Permitirle siempre optar por no participar a través de Configuración"
@@ -1075,7 +1075,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask…"
+    "message": "Larecoin…"
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 recopilará su dirección IP completa",
@@ -1093,10 +1093,10 @@
     "message": "Enviar eventos de vistas de página y clics anónimos"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "Ayúdenos a mejorar MetaMask"
+    "message": "Ayúdenos a mejorar Larecoin"
   },
   "metametricsOptInDescription": {
-    "message": "A MetaMask le gustaría recopilar datos de uso para entender mejor cómo los usuarios interactúan con la extensión. Estos datos se usarán para mejorar de manera continua la usabilidad y la experiencia de usuario de nuestro producto y del ecosistema de Ethereum."
+    "message": "A Larecoin le gustaría recopilar datos de uso para entender mejor cómo los usuarios interactúan con la extensión. Estos datos se usarán para mejorar de manera continua la usabilidad y la experiencia de usuario de nuestro producto y del ecosistema de Ethereum."
   },
   "mismatchedChain": {
     "message": "Los detalles de la red de este identificador de cadena no coinciden con nuestros registros. Antes de continuar, le recomendamos que $1.",
@@ -1119,14 +1119,14 @@
     "message": "Nombre"
   },
   "needEtherInWallet": {
-    "message": "Para interactuar con aplicaciones descentralizadas mediante MetaMask, necesitará ethers en su cartera."
+    "message": "Para interactuar con aplicaciones descentralizadas mediante Larecoin, necesitará ethers en su cartera."
   },
   "needHelp": {
     "message": "¿Necesita ayuda? Comuníquese con $1",
     "description": "$1 represents `needHelpLinkText`, the text which goes in the help link"
   },
   "needHelpLinkText": {
-    "message": "Soporte de MetaMask"
+    "message": "Soporte de Larecoin"
   },
   "needImportFile": {
     "message": "Debe seleccionar un archivo para la importación.",
@@ -1194,7 +1194,7 @@
     "message": "Contraseña nueva (mín. de 8 caracteres)"
   },
   "newToMetaMask": {
-    "message": "¿Es nuevo en MetaMask?"
+    "message": "¿Es nuevo en Larecoin?"
   },
   "newTotal": {
     "message": "Total nuevo"
@@ -1207,7 +1207,7 @@
   },
   "nextNonceWarning": {
     "message": "El nonce es superior al nonce sugerido de $1",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to Larecoin's internal logic"
   },
   "noAccountsFound": {
     "message": "No se encuentran cuentas para la consulta de búsqueda determinada"
@@ -1252,19 +1252,19 @@
     "message": "No hay gas suficiente"
   },
   "notifications1Description": {
-    "message": "Los usuarios de la aplicación móvil de MetaMask ahora pueden canjear tokens en su cartera móvil. Escanee el código QR para obtener la aplicación móvil y comience a canjear.",
+    "message": "Los usuarios de la aplicación móvil de Larecoin ahora pueden canjear tokens en su cartera móvil. Escanee el código QR para obtener la aplicación móvil y comience a canjear.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "¡El canje en dispositivos móviles ya está aquí!",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use MetaMask Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use Larecoin Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "Leer más",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "Manténgase al día con las mejores prácticas de seguridad de MetaMask y reciba los últimos consejos sobre seguridad del soporte técnico oficial de MetaMask.",
+    "message": "Manténgase al día con las mejores prácticas de seguridad de Larecoin y reciba los últimos consejos sobre seguridad del soporte técnico oficial de Larecoin.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -1276,7 +1276,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Swap on Binance Smart Chain!' notification. Upon clicking, users will be taken to a page where then can swap tokens on Binance Smart Chain."
   },
   "notifications4Description": {
-    "message": "Obtenga los mejores precios en los canjes de tokens dentro de su cartera. MetaMask ahora lo conecta con varios agregadores de intercambio descentralizado y creadores de mercado profesionales en Binance Smart Chain.",
+    "message": "Obtenga los mejores precios en los canjes de tokens dentro de su cartera. Larecoin ahora lo conecta con varios agregadores de intercambio descentralizado y creadores de mercado profesionales en Binance Smart Chain.",
     "description": "Description of a notification in the 'See What's New' popup."
   },
   "notifications4Title": {
@@ -1331,7 +1331,7 @@
     "message": "Participar en MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Participe en MetaMetrics para ayudarnos a mejorar MetaMask"
+    "message": "Participe en MetaMetrics para ayudarnos a mejorar Larecoin"
   },
   "password": {
     "message": "Contraseña"
@@ -1566,10 +1566,10 @@
     "message": "Seleccionar una cuenta"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "Esta cuenta ya se conectó a MetaMask."
+    "message": "Esta cuenta ya se conectó a Larecoin."
   },
   "selectAnAccountHelp": {
-    "message": "Seleccione una cuenta para verla en MetaMask."
+    "message": "Seleccione una cuenta para verla en Larecoin."
   },
   "selectAnAccountHelpDirections": {
     "message": "¿No ve su cuenta? $1",
@@ -1701,7 +1701,7 @@
     "message": "Error al recuperar los registros de estado."
   },
   "stateLogFileName": {
-    "message": "Registros de estado de MetaMask"
+    "message": "Registros de estado de Larecoin"
   },
   "stateLogs": {
     "message": "Registros de estado"
@@ -1808,7 +1808,7 @@
     "message": "Editar límite"
   },
   "swapEnableDescription": {
-    "message": "Esta acción es obligatoria y le da permiso a MetaMask para canjear su $1.",
+    "message": "Esta acción es obligatoria y le da permiso a Larecoin para canjear su $1.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEstimatedNetworkFee": {
@@ -1826,7 +1826,7 @@
   },
   "swapFailedErrorDescriptionWithSupportLink": {
     "message": "Pueden ocurrir fallas en las transacciones, por lo que estamos aquí para ayudarlo. Si el problema continúa, comuníquese con nuestro soporte al cliente al $1 para recibir ayuda adicional.",
-    "description": "This message is shown to a user if their swap fails. The $1 will be replaced by support.metamask.io"
+    "description": "This message is shown to a user if their swap fails. The $1 will be replaced by t.me/joinlarecoin"
   },
   "swapFailedErrorTitle": {
     "message": "Error al canjear"
@@ -1867,7 +1867,7 @@
     "message": "Desfase máximo"
   },
   "swapMetaMaskFee": {
-    "message": "Cuota de MetaMask"
+    "message": "Cuota de Larecoin"
   },
   "swapMetaMaskFeeDescription": {
     "message": "Buscamos el mejor precio en las fuentes de liquidez más importantes, todo el tiempo. Se incorpora de manera automática a esta cotización una cuota del $1 %.",
@@ -1878,7 +1878,7 @@
     "description": "$1 is the number of quotes that the user can select from when opening the list of quotes on the 'view quote' screen"
   },
   "swapNetworkFeeSummary": {
-    "message": "La cuota de red cubre el costo de procesamiento del canje y su almacenamiento en la red de $1. MetaMask no se beneficia de esta cuota."
+    "message": "La cuota de red cubre el costo de procesamiento del canje y su almacenamiento en la red de $1. Larecoin no se beneficia de esta cuota."
   },
   "swapNewQuoteIn": {
     "message": "Cotizaciones nuevas en $1",
@@ -1906,7 +1906,7 @@
     "message": "Si el precio cambia entre el momento en que hace el pedido y cuando se confirma, se denomina \"desfase\". El canje se cancelará automáticamente si el desfase supera lo establecido en la configuración \"tolerancia de desfase\"."
   },
   "swapQuoteIncludesRate": {
-    "message": "La cotización incluye una cuota de MetaMask de $1 %",
+    "message": "La cotización incluye una cuota de Larecoin de $1 %",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapQuoteNofN": {
@@ -2048,7 +2048,7 @@
     "message": "Ver en actividad"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "Esto cambiará la red seleccionada en MetaMask por una red agregada con anterioridad:"
+    "message": "Esto cambiará la red seleccionada en Larecoin por una red agregada con anterioridad:"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "¿Le permite a este sitio cambiar la red?"
@@ -2084,16 +2084,16 @@
     "message": "Asegúrese de que nadie vea su pantalla cuando escanee este código"
   },
   "syncWithMobileComplete": {
-    "message": "Los datos se sincronizaron correctamente. ¡Disfrute de la aplicación móvil de MetaMask!"
+    "message": "Los datos se sincronizaron correctamente. ¡Disfrute de la aplicación móvil de Larecoin!"
   },
   "syncWithMobileDesc": {
-    "message": "Puede sincronizar sus cuentas y su información con el dispositivo móvil. Abra la aplicación móvil de MetaMask, vaya a \"Configuración\" y presione \"Sincronizar desde la extensión del explorador\""
+    "message": "Puede sincronizar sus cuentas y su información con el dispositivo móvil. Abra la aplicación móvil de Larecoin, vaya a \"Configuración\" y presione \"Sincronizar desde la extensión del explorador\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Si acaba de abrir la aplicación móvil de MetaMask por primera vez, siga los pasos que aparecen en el teléfono."
+    "message": "Si acaba de abrir la aplicación móvil de Larecoin por primera vez, siga los pasos que aparecen en el teléfono."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Escanear este código con la aplicación móvil de MetaMask"
+    "message": "Escanear este código con la aplicación móvil de Larecoin"
   },
   "syncWithMobileTitle": {
     "message": "Sincronizar con dispositivo móvil"
@@ -2217,7 +2217,7 @@
     "message": "Vuelva a intentarlo"
   },
   "typePassword": {
-    "message": "Escriba su contraseña de MetaMask"
+    "message": "Escriba su contraseña de Larecoin"
   },
   "unapproved": {
     "message": "No aprobado"
@@ -2324,14 +2324,14 @@
     "description": "$1 is a clickable link."
   },
   "welcome": {
-    "message": "Bienvenido a MetaMask"
+    "message": "Bienvenido a Larecoin"
   },
   "welcomeBack": {
     "message": "Hola de nuevo"
   },
   "whatsNew": {
     "message": "Novedades",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to MetaMask."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to Larecoin."
   },
   "whatsThis": {
     "message": "¿Qué es esto?"

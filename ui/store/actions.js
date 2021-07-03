@@ -1214,7 +1214,7 @@ export function addToken(
 ) {
   return (dispatch) => {
     if (!address) {
-      throw new Error('MetaMask - Cannot add token without address');
+      throw new Error('Larecoin - Cannot add token without address');
     }
     if (!dontShowLoadingIndicator) {
       dispatch(showLoadingIndication());

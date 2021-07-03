@@ -1,7 +1,7 @@
 import { MESSAGE_TYPE } from './app';
 
 /**
- * Transaction Type is a MetaMask construct used internally
+ * Transaction Type is a Larecoin construct used internally
  * @typedef {Object} TransactionTypes
  * @property {'transfer'} TOKEN_METHOD_TRANSFER - A token transaction where the user
  *  is sending tokens that they own to another address
@@ -18,10 +18,10 @@ import { MESSAGE_TYPE } from './app';
  * @property {'contractDeployment'} DEPLOY_CONTRACT - A transaction that deployed
  *  a smart contract
  * @property {'swap'} SWAP - A transaction swapping one token for another through
- *  MetaMask Swaps
+ *  Larecoin Swaps
  * @property {'swapApproval'} SWAP_APPROVAL - Similar to the approve type, a swap
  *  approval is a special case of ERC20 approve method that requests an allowance of
- *  the token to spend on behalf of the user for the MetaMask Swaps contract. The first
+ *  the token to spend on behalf of the user for the Larecoin Swaps contract. The first
  *  swap for any token will have an accompanying swapApproval transaction.
  * @property {'cancel'} CANCEL - A transaction submitted with the same nonce as a
  *  previous transaction, a higher gas price and a zeroed out send amount. Useful
@@ -61,15 +61,15 @@ export const TRANSACTION_TYPES = {
 };
 
 /**
- * Transaction Status is a mix of Ethereum and MetaMask terminology, used internally
+ * Transaction Status is a mix of Ethereum and Larecoin terminology, used internally
  * for transaction processing.
  * @typedef {Object} TransactionStatuses
  * @property {'unapproved'} UNAPPROVED - A new transaction that the user has not
  *  approved or rejected
  * @property {'approved'} APPROVED - The user has approved the transaction in the
- *  MetaMask UI
+ *  Larecoin UI
  * @property {'rejected'} REJECTED - The user has rejected the transaction in the
- *  MetaMask UI
+ *  Larecoin UI
  * @property {'signed'} SIGNED - The transaction has been signed
  * @property {'submitted'} SUBMITTED - The transaction has been submitted to network
  * @property {'failed'} FAILED - The transaction has failed for some reason
@@ -99,7 +99,7 @@ export const TRANSACTION_STATUSES = {
 };
 
 /**
- * Transaction Group Status is a MetaMask construct to track the status of groups
+ * Transaction Group Status is a Larecoin construct to track the status of groups
  * of transactions.
  * @typedef {Object} TransactionGroupStatuses
  * @property {'cancelled'} CANCELLED - A cancel type transaction in the group was
@@ -118,7 +118,7 @@ export const TRANSACTION_GROUP_STATUSES = {
 };
 
 /**
- * Transaction Group Category is a MetaMask construct to categorize the intent
+ * Transaction Group Category is a Larecoin construct to categorize the intent
  * of a group of transactions for purposes of displaying in the UI
  * @typedef {Object} TransactionGroupCategories
  * @property {'send'} SEND - Transaction group representing ether being sent from
@@ -134,7 +134,7 @@ export const TRANSACTION_GROUP_STATUSES = {
  *  approval in the UI. Once the user approves or rejects it will no longer show in
  *  activity.
  * @property {'swap'} SWAP - Transaction group representing a token swap through
- *  MetaMask Swaps. This transaction group's primary currency changes depending
+ *  Larecoin Swaps. This transaction group's primary currency changes depending
  *  on context. If the user is viewing an asset page for a token received from a swap,
  *  the primary currency will be the received token. Otherwise the token exchanged
  *  will be shown.

@@ -53,7 +53,7 @@ export default class TokenRatesController {
         });
       } catch (error) {
         log.warn(
-          `MetaMask - TokenRatesController exchange rate fetch failed.`,
+          `Larecoin - TokenRatesController exchange rate fetch failed.`,
           error,
         );
       }

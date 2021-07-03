@@ -151,11 +151,11 @@ export default function AwaitingSwap({
       <a
         className="awaiting-swap__support-link"
         key="awaiting-swap-support-link"
-        href="https://support.metamask.io"
+        href="https://t.me/joinlarecoin"
         target="_blank"
         rel="noopener noreferrer"
       >
-        support.metamask.io
+        t.me/joinlarecoin
       </a>,
     ]);
     submitText = t('tryAgain');

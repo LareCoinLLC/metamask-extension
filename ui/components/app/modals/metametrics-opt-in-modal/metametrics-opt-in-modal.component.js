@@ -95,7 +95,7 @@ export default class MetaMetricsOptInModal extends Component {
               {t('gdprMessage', [
                 <a
                   key="metametrics-bottom-text-wrapper"
-                  href="https://metamask.io/privacy.html"
+                  href="https://larecoin.com/privacy.html"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

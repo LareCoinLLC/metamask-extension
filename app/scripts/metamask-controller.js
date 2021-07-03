@@ -518,7 +518,7 @@ export default class MetamaskController extends EventEmitter {
     const providerOpts = {
       static: {
         eth_syncing: false,
-        web3_clientVersion: `MetaMask/v${version}`,
+        web3_clientVersion: `Larecoin/v${version}`,
       },
       version,
       // account mgmt
@@ -610,7 +610,7 @@ export default class MetamaskController extends EventEmitter {
   /**
    * Gets network state relevant for external providers.
    *
-   * @param {Object} [memState] - The MetaMask memState. If not provided,
+   * @param {Object} [memState] - The Larecoin memState. If not provided,
    * this function will retrieve the most recent state.
    * @returns {Object} An object with relevant network state properties.
    */
@@ -1935,7 +1935,7 @@ export default class MetamaskController extends EventEmitter {
    * transaction.
    * @param {number} originalTxId - the id of the txMeta that you want to attempt to cancel
    * @param {string} [customGasPrice] - the hex value to use for the cancel transaction
-   * @returns {Object} MetaMask state
+   * @returns {Object} Larecoin state
    */
   async createCancelTransaction(originalTxId, customGasPrice, customGasLimit) {
     await this.txController.createCancelTransaction(
@@ -2017,7 +2017,7 @@ export default class MetamaskController extends EventEmitter {
     const { hostname } = new URL(sender.url);
     // Check if new connection is blocked if phishing detection is on
     if (usePhishDetect && this.phishingController.test(hostname)) {
-      log.debug('MetaMask - sending phishing warning for', hostname);
+      log.debug('Larecoin - sending phishing warning for', hostname);
       this.sendPhishingWarning(connectionStream, hostname);
       return;
     }
@@ -2450,7 +2450,7 @@ export default class MetamaskController extends EventEmitter {
   // misc
 
   /**
-   * A method for emitting the full MetaMask state to all registered listeners.
+   * A method for emitting the full Larecoin state to all registered listeners.
    * @private
    */
   privateSendUpdate() {
@@ -2824,7 +2824,7 @@ export default class MetamaskController extends EventEmitter {
   // TODO: Replace isClientOpen methods with `controllerConnectionChanged` events.
   /* eslint-disable accessor-pairs */
   /**
-   * A method for recording whether the MetaMask user interface is open or not.
+   * A method for recording whether the Larecoin user interface is open or not.
    * @private
    * @param {boolean} open
    */
@@ -2843,7 +2843,7 @@ export default class MetamaskController extends EventEmitter {
   }
 
   /**
-   * Locks MetaMask
+   * Locks Larecoin
    */
   setLocked() {
     return this.keyringController.setLocked();
